@@ -20,9 +20,9 @@ Mesolithic age (c. 15000-300BCE) that focused on hunting, fishing, and gathering
 | :--:                                                                                                     |
 | *Early Jomon Period Pots 7000-5000 BCE with impressed rope patterns*                                     |
 
-| <img src="img/ARHI/latejoleft.jpg" alt="Late Period: 2500-1500BCE" width="175px"> <img src="img/ARHI/latejoright.jpg" alt="Late Period: 2500-1500BCE" width="175px"> |
-| :--:                                                                                                                                                                 |
-| *Late Jomon Period Pots: left: 2500-1500BCE right: 2500-1500BCE*                                                                                                   |
+| <img src="img/ARHI/latejoleft.jpg" alt="Late Period: 2500-1500BCE" width="50%"> <img src="img/ARHI/latejoright.jpg" alt="Late Period: 2500-1500BCE" width="50%"> |
+| :--:                                                                                                                                                             |
+| *Late Jomon Period Pots: left: 2500-1500BCE right: 2500-1500BCE*                                                                                                 |
 
 | <img src="img/ARHI/finaljoleft.jpg" alt="Final Period: 2500-1500BCE" width="175px"> <img src="img/ARHI/finaljoright.jpg" alt="Final Period: 2500-1500BCE" width="175px"> |
 | :--:                                                                                                                                                                     |
