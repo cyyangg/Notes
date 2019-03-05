@@ -222,7 +222,7 @@ class LinkedList {
 ```
 With this, you can make the node public or private. 
 
-![collAqn.png](collAqn.png)
+![collAqn.png](img/collAqn.png)
 
 ## Thinking about iterators: key questions
 * What data should we store in an iterator (to keep track of where we are)?
