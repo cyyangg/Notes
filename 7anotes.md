@@ -1,4 +1,3 @@
-This is one of my favorite note taking things
 ---
 # Lecture 7a
 
