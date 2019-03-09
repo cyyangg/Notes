@@ -381,3 +381,7 @@ Element* p;
 p->next_ // operator++
 p->value // operator*
 ```
+---
+# Lecture 7a
+[](7anotes)
+---
