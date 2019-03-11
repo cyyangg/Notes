@@ -40,11 +40,32 @@ Mesolithic age (c. 15000-300BCE) that focused on hunting, fishing, and gathering
 
 </center>
 
+#### Yayoi- 300 BCE to 300 AD
+Arrival of pottery wheel
+Pottery round, symmetry, thin walls
+Big bronze bells  --> metal casting
+
+#### Kofun- 300 AD to 600 AD
+Haniwa figurines, stuck in ground to protect area, near burial mounds
+1. domesticated animals
+2. houses- raised off the ground, chigi (forked thing on roof), katsuogi (weigh down the roof)
+3. warriors, armor
+Burial mounds, keyhole pattern popular
+
+##### Main Idea:
+Art made for the dead, placed in burial mounds
+
+
 ---
 
 ## Asuka and Nara <a name="asuka"></a>
 
 Time period: 552-794ce
+
+###### Main Idea:
+Buddhism be here, merge of Shinto and Buddhist boys
+
+
 
 ---
 
